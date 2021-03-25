@@ -1,3 +1,5 @@
 {
-  "baseUrl": "https://demoqa.com"
+  "baseUrl": "https://demoqa.com",
+  "subUrlTextBox": "/text-box/",
+  "subUrlBookStore": "/books/"
 }
