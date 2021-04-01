@@ -1,5 +1,5 @@
 //Scenario_002_Element_Text_Box_Fill_In_the_boxes_click_Submit//
-escribe('Forms', () => {
+describe('Forms', () => {
   before(() => {
     cy.visit(Cypress.config().subUrlTextBox)
 
